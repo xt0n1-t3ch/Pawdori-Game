@@ -1,0 +1,2 @@
+# The scripts only draw this page's pictures; keep GitHub from calling the repository a Python project.
+scripts/** linguist-documentation
