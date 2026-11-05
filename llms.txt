@@ -1,0 +1,29 @@
+# Pawdori
+
+> Pawdori is a free virtual pet game for Android and the browser, in English and Spanish, for players 13 and up. Players adopt a pet, feed, bathe, cuddle and put it to bed, raise it with up to six family members and friends, play six mini games, You or Me? and the live Pet Race, and dress the pet and decorate its room. This repository publishes the signed Android APKs; the APK updates itself.
+
+Key facts:
+
+- Download: the latest signed APK is at https://github.com/xt0n1-t3ch/Pawdori-Game/releases/latest (file pawdori-<version>.apk, about 28 MB). It needs Android 10 or newer and an internet connection.
+- Browser: the same game, as an installable PWA, is at https://app.pawdori.black-watch.net (Chrome 111+, Safari 16.4+). The website is https://pawdori.black-watch.net.
+- Updates: the app reads latest.json from the latest release, shows the notes in the player's language, checks the APK's SHA-256 and signature, then opens Android's installer. Some versions are required.
+- Signing: package com.pawdori.app; signing certificate SHA-256 BA:93:A4:A1:CA:42:94:70:86:81:B2:AD:BB:02:7E:4B:27:90:F7:D1:E2:6D:FA:48:E6:FB:24:66:B0:66:D0:92, also published in https://pawdori.black-watch.net/.well-known/assetlinks.json.
+- Pets: 14 species (Mochi Bun, Puddin Cat, Nori Fox, Bubble Axolotl, Maple Bear, Pebble Penguin, Taro Panda, Honey Hamster, Sprout Frog, Cloud Sheep, Cocoa Otter, Starlight Dragon, Biscuit Pup, Pepper Pup), each with five growth stages.
+- Mini games: Cozy Maze, Memory Match, Snack Catch, Bubble Pop, Rhythm Groom and Guess Answers (solo or challenge), You or Me? (challenge) and Pet Race (live).
+- Money: free to play. Pawdori Premium is an optional subscription; there are no paid random rewards, and rewarded ads are optional. Coins, rewards and progress are decided on the server.
+- Pawdori is made by xt0n1 (XT0N1.T3CH). The game, its art and characters are all rights reserved; the game's source code is private.
+
+## Docs
+
+- [README (English)](https://raw.githubusercontent.com/xt0n1-t3ch/Pawdori-Game/main/README.en.md): what Pawdori is, screenshots, features, requirements, install, updates, security, releases, FAQ and credits
+- [README (Spanish)](https://raw.githubusercontent.com/xt0n1-t3ch/Pawdori-Game/main/README.md): the same page in Spanish, the repository's main page
+
+## Optional
+
+- [Citation](https://raw.githubusercontent.com/xt0n1-t3ch/Pawdori-Game/main/CITATION.cff): how to cite Pawdori
+- [Everything above in one file](https://raw.githubusercontent.com/xt0n1-t3ch/Pawdori-Game/main/llms-full.txt): the text of both pages
+
+## Releases
+
+- [Latest release](https://github.com/xt0n1-t3ch/Pawdori-Game/releases/latest): the newest signed APK, its .sha256 file and latest.json
+- [All releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases): every version with notes in English and Spanish

@@ -1,0 +1,7 @@
+# The raw captures make_art.py reads stay on the author's disk; only the framed pictures in assets/ are published.
+/shots/
+__pycache__/
+*.pyc
+
+# Working rules for coding agents stay local.
+AGENTS.md

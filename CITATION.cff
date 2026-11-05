@@ -1,0 +1,22 @@
+# How to cite Pawdori. GitHub shows it as "Cite this repository".
+cff-version: 1.2.0
+message: "If you write about or build on Pawdori, please credit it as below."
+title: "Pawdori"
+abstract: "A free virtual pet game for Android and the browser, in English and Spanish: raise a pet with your family, play mini games with friends, dress it and decorate its room."
+type: software
+authors:
+  - alias: "xt0n1"
+    website: "https://github.com/xt0n1-t3ch"
+repository-code: "https://github.com/xt0n1-t3ch/Pawdori-Game"
+url: "https://pawdori.black-watch.net"
+version: "3.1.0"
+date-released: "2026-11-03"
+keywords:
+  - virtual-pet
+  - pet-game
+  - android-game
+  - cozy-game
+  - family-game
+  - mini-games
+  - tamagotchi
+  - pwa

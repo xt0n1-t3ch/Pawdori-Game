@@ -1,0 +1,417 @@
+# Pawdori, the full text
+
+> Pawdori is a free virtual pet game for Android and the browser, in English and Spanish, for players 13 and up. Players adopt a pet, feed, bathe, cuddle and put it to bed, raise it with up to six family members and friends, play six mini games, You or Me? and the live Pet Race, and dress the pet and decorate its room. This repository publishes the signed Android APKs; the APK updates itself.
+
+---
+
+Source: README.en.md (README (English))
+
+(Picture: Pawdori: a cozy virtual pet to raise with family and play with friends. Developed by xt0n1.)
+
+Español · English
+
+(Picture: Download for Android)
+(Picture: Play in your browser)
+
+(Picture: Latest version)
+(Picture: Downloads)
+(Picture: Android 10 or newer)
+(Picture: English and Spanish)
+(Picture: Ages 13 and up)
+(Picture: Free to play)
+
+## What is Pawdori: a cozy virtual pet you raise with the people you love
+
+**Pawdori** is a virtual pet game for Android and the browser. You adopt a pet, feed it, bathe it, cuddle it and tuck it in for the night, and watch it grow day by day. You don't do it alone: your family and friends can care for it with you from their own phones, with a family chat and a log of who did what.
+
+You also play: six mini games to play solo or as a challenge with friends, **You or Me?** and the live **Pet Race**. The coins you earn buy groceries at the supermarket, outfits for your pet and furniture for its room.
+
+It is free, it speaks **English and Spanish**, and it is made for players **13 and up**: big buttons, few words and no fake urgency. Your progress lives in your account, so it is the same on another phone or in the browser.
+
+## Showcase: home, mini games, the shop, outfits, family and more
+
+(Picture: Pawdori on a large screen: Mochi, the cream bunny, in a lavender room with a honey wooden floor, the menu on the left and the care journal with daily quests on the right)
+
+Mochi's room on a large screen, with the care journal and today's quests beside it.
+
+(Picture: Home on a phone: Mochi in its room, the wheel, the gift and the play, shop, care, friends and decor buttons)
+Home. Your pet in its room, everything one tap away.
+(Picture: Your pets: Mochi at level 40 and Flan at level 11, two slots to adopt and the daily gift card)
+Your pets. Each with its own level, streak and room.
+(Picture: Daily gift: day 2 of 7, a 1-day streak and the Open my gift button)
+Daily gift. Seven days in a row, a prize for each.
+
+(Picture: Mini games: Cozy Maze, Memory Match, Snack Catch, Bubble Pop, Rhythm Groom and Guess Answers)
+Mini games. Six games to play solo or as a challenge.
+(Picture: Bubble Pop in play: heart, drop, paw and rainbow bubbles floating above Mochi)
+Bubble Pop. Chain bubbles of a kind before they float away.
+(Picture: Shop: Pawdori Premium, today's picks on sale and the supermarket)
+Shop. Daily deals, Premium and the supermarket.
+
+(Picture: Outfits: party hats, berets, tiaras and earmuffs for Mochi, by head, glasses and neck)
+Outfits and pals. Dress your pet and decorate its room.
+(Picture: Family: Mochi's family chat with quick messages)
+Family. Care for it together and chat about it.
+(Picture: Sign in: Your new best friend is waiting, with Create my account, email, password, Google and Facebook)
+Your account. Free to create, in your language.
+
+Pawdori 3.1.0 in the game's simulation, on a 412 px phone and a 1440 px screen.
+
+## Features: everything you can do with your pet
+
+| | What you can do |
+| --- | --- |
+| 🐾 **Pets** | 14 species: Mochi Bun, Puddin Cat, Nori Fox, Bubble Axolotl, Maple Bear, Pebble Penguin, Taro Panda, Honey Hamster, Sprout Frog, Cloud Sheep, Cocoa Otter, Starlight Dragon, Biscuit Pup and Pepper Pup. Each has its own personality, traits and five stages to grow and evolve through. |
+| 💛 **Care** | Food, water, baths, rest and love. Every care shows what it gave ("Food +35", "+10 XP"), and your pet tells you when something isn't needed. Tickle it to shake out treats. |
+| 🌙 **Day and night** | Your pet falls asleep, rests and wakes up with a big stretch and a "Good morning!". |
+| 🏡 **Family** | Up to six people care for the same pet, each on their own phone, with a family chat and a care log. |
+| 🤝 **Friends** | Friend requests, profiles and messages, private by default. Messages are moderated before anyone sees them. |
+| 🎮 **Mini games** | Cozy Maze, Memory Match, Snack Catch, Bubble Pop, Rhythm Groom and Guess Answers, solo or as challenges. Plus **You or Me?** with a friend and the live **Pet Race**. Friends and global leaderboards. |
+| 🎁 **Daily rewards** | A seven-day daily gift with a streak, the daily wheel, daily quests and achievements. |
+| 🛍️ **Shop** | Daily deals, a supermarket with meals, drinks and soaps for the pantry, and Pawdori Premium with clear prices. |
+| 🎀 **Outfits and decor** | Hats, glasses and scarves for your pet, little pals to keep it company, and furniture, walls and floors for its room. Complete deco albums for rewards. |
+| 🌐 **Two languages** | English and Spanish. Pawdori follows your phone's language, and you can switch any time. |
+| 📲 **One account** | The same game on Android and in the browser. |
+
+## Requirements: what your phone needs
+
+| | |
+| --- | --- |
+| System | Android 10 or newer |
+| Space | About 28 MB to download the APK |
+| Internet | Yes: your pet, coins and rewards live on the server |
+| Account | An email address; accounts are free |
+| Browser | Chrome 111 or newer, or Safari 16.4 or newer, to play without installing anything |
+
+## Installation: from the link to your pet in four steps
+
+(Picture: Download the latest version for Android)
+
+(Picture: The install in four steps: 1. Open the latest release from your phone. 2. Download the APK, about 28 MB. 3. Allow the install, for Pawdori only. 4. Open Pawdori, create your account and adopt your pet.)
+
+1. From your phone, open the [**latest release**](https://github.com/xt0n1-t3ch/Pawdori-Game/releases/latest).
+2. Under **Assets**, tap `pawdori-<version>.apk` to download it.
+3. Open it. Android asks to allow installs from this source: allow it for Pawdori only.
+4. Open Pawdori, create your account and adopt your pet.
+
+No Android? Play in your browser
+
+Open [**app.pawdori.black-watch.net**](https://app.pawdori.black-watch.net) in Chrome, Edge or Safari and sign in. It is the same game as on Android. From the browser's menu you can **install** it as an app (PWA) and open it from your home screen, on iPhone and iPad too.
+
+## Updates: Pawdori updates itself
+
+When a new version is out, Pawdori shows a small window with what's new, in your language, and an **Update** button. The app downloads the new APK, checks that its hash and signature are the official ones, and opens Android's installer for you to confirm. Your progress is not touched.
+
+Some versions are required, for example when the server changes: the app asks you to update before you keep playing.
+
+To do it by hand, download the new APK from the [latest release](https://github.com/xt0n1-t3ch/Pawdori-Game/releases/latest) and install it over the old one. Every version's notes, in English and Spanish, are on [Releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases).
+
+## Security: signed, verified, and your progress lives on the server
+
+- Every APK is **signed** with Pawdori's official key. Android won't install a copy signed by someone else over it, and the app refuses an update with another signature.
+- Every version comes with its **SHA-256** in `pawdori-<version>.apk.sha256` and in `latest.json`, and the app checks it before installing.
+- Your coins, rewards, inventory and progress live on the **server**: they can't be changed from the phone, and they aren't lost when you change phones.
+- Chat messages are **moderated** before anyone sees them. If moderation doesn't answer, the message waits; it is never published unchecked.
+
+Check the APK yourself
+
+The SHA-256 fingerprint of Pawdori's signing certificate (package `com.pawdori.app`) is:
+
+```text
+BA:93:A4:A1:CA:42:94:70:86:81:B2:AD:BB:02:7E:4B:27:90:F7:D1:E2:6D:FA:48:E6:FB:24:66:B0:66:D0:92
+```
+
+It is the same one Pawdori's site publishes in [`assetlinks.json`](https://pawdori.black-watch.net/.well-known/assetlinks.json). To check a download on your computer:
+
+```bash
+sha256sum -c pawdori-3.1.0.apk.sha256            # pawdori-3.1.0.apk: OK
+apksigner verify --print-certs pawdori-3.1.0.apk  # the SHA-256 digest must match the one above
+```
+
+## Releases: what each version brings
+
+Every version on [Releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases) has its notes in English and Spanish and three files:
+
+| File | What it is for |
+| --- | --- |
+| `pawdori-<version>.apk` | The Android installer |
+| `pawdori-<version>.apk.sha256` | The APK's hash, to check the download |
+| `latest.json` | What the app reads to find a new version: the number, notes in English and Spanish, size and hash |
+
+Pawdori follows [Semantic Versioning](https://semver.org/): the first number changes with big updates, the second with new features and the third with fixes.
+
+## FAQ: questions people ask
+
+### Is Pawdori free?
+
+Yes, the whole game is free. **Pawdori Premium** is optional: members' outfits and wallpapers, a weekly gift, more tickles and an extra wheel spin, with the price and renewal in plain sight and a clear way to say no. There are no paid random rewards.
+
+### Why isn't it on Google Play?
+
+For now Pawdori installs from here and updates itself. The Google Play version comes later; that one will update from the store.
+
+### Is installing an APK safe?
+
+Install only the APK from this repository. It is signed with the official key and comes with its SHA-256 hash, which the app and you can check (see [Security](#security)). Afterwards you can take back your browser's permission to install apps.
+
+### Do I lose my pet if I change phones?
+
+No. Your pet and your progress are in your account. Install Pawdori on the new phone, or open the browser, and sign in with your email.
+
+### Does it work on iPhone?
+
+There is no iPhone app yet, but you can play in the browser at [app.pawdori.black-watch.net](https://app.pawdori.black-watch.net) with Safari 16.4 or newer, and add it to your home screen.
+
+### Can my family care for the same pet?
+
+Yes. Share your family's invite code: up to six people care for the same pet, each on their own phone, and everyone sees changes right away.
+
+### Are there ads?
+
+Ads are family-safe and not personalized, and the ones that give a reward are always optional. Premium, or the one-time Remove Ads purchase, removes the rest.
+
+### What age is it for?
+
+Players 13 and up.
+
+## This repository: what it holds and how this page is made
+
+This repository publishes Pawdori's installers and this page. The game's code lives in a private repository; the APKs are published on [Releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases), not in the git history.
+
+```text
+README.md            the page in Spanish
+README.en.md         this page, in English
+llms.txt             a map of Pawdori for language models (llms-full.txt: all of the text)
+CITATION.cff         how to cite Pawdori (GitHub's "Cite this repository")
+assets/readme/       the cover, headings and steps, in es/ and en/, and the social preview
+assets/screenshots/  the game's screenshots, in es/ and en/
+scripts/make_art.py  draws this page's pictures with Pawdori's own art and fonts
+scripts/llms.py      writes llms.txt and llms-full.txt from both pages
+```
+
+Regenerating the pictures and the language model files
+
+```bash
+python3 -I scripts/make_art.py --source /path/to/Pawdori --shots /path/to/captures
+python3 -I scripts/llms.py            # writes llms.txt and llms-full.txt
+python3 -I scripts/llms.py --check    # fails when they are out of date
+```
+
+`make_art.py` reads the Baloo 2 and Nunito Sans fonts and the game's art from a Pawdori checkout, and the captures from the game's simulation at 2x (one `es/` and one `en/` folder). It checks that the text in every picture reaches a contrast of 7:1 or more.
+
+## Credits: who makes it and who owns it
+
+Pawdori is made by [xt0n1](https://github.com/xt0n1-t3ch) (XT0N1.T3CH). The game, its art, its characters and this page are © 2026 xt0n1, all rights reserved: you may download and install Pawdori and share a link to this page, but not republish the APK or the art as your own.
+
+The [Baloo 2](https://github.com/EkType/Baloo2) and [Nunito Sans](https://github.com/googlefonts/NunitoSans) fonts are used under the SIL Open Font License 1.1. The privacy policy is at [pawdori.black-watch.net/privacy](https://pawdori.black-watch.net/privacy).
+
+---
+
+Every day, a tiny new story with you. Made with love by XT0N1.T3CH 🐾
+
+---
+
+Source: README.md (README (Spanish))
+
+(Picture: Pawdori: una mascota virtual para cuidar en familia y jugar con amigos. Hecho por xt0n1.)
+
+Español · English
+
+(Picture: Descargar para Android)
+(Picture: Jugar en el navegador)
+
+(Picture: Última versión)
+(Picture: Descargas)
+(Picture: Android 10 o más)
+(Picture: Español e inglés)
+(Picture: Para 13 años o más)
+(Picture: Gratis)
+
+## ¿Qué es Pawdori? Una mascota virtual para cuidar en familia
+
+**Pawdori** es un juego de mascota virtual para Android y el navegador. Adoptas una mascota, le das de comer, la bañas, la mimas y la acuestas a dormir, y la ves crecer día a día. No la cuidas solo: tu familia y tus amigos pueden cuidarla contigo desde sus propios teléfonos, con un chat de familia y un historial de quién hizo qué.
+
+También juegas: seis minijuegos para jugar solo o retar a tus amigos, **¿Tú o yo?** y la **Carrera de mascotas** en vivo. Con las monedas que ganas compras comida en el supermercado, ropa para tu mascota y muebles para decorar su cuarto.
+
+Es gratis, está en **español e inglés** y está pensado para jugadores de **13 años o más**: botones grandes, pocas palabras y nada de urgencia falsa. Tu progreso vive en tu cuenta, así que lo encuentras igual en otro teléfono o en el navegador.
+
+## Así se ve: inicio, minijuegos, tienda, ropa, familia y más
+
+(Picture: Pawdori en una pantalla grande: Mochi, el conejito crema, en su cuarto lavanda con piso de madera color miel, el menú a la izquierda y el diario de cuidados con las misiones diarias a la derecha)
+
+El cuarto de Mochi en una pantalla grande, con el diario de cuidados y las misiones del día al lado.
+
+(Picture: Inicio en el teléfono: Mochi en su cuarto, la ruleta, el regalo y los botones de jugar, tienda, cuidados, amigos y decorar)
+Inicio. Tu mascota en su cuarto, con todo a un toque.
+(Picture: Tus mascotas: Mochi nivel 40 y Flan nivel 11, dos espacios para adoptar y la tarjeta del regalo diario)
+Tus mascotas. Cada una con su nivel, su racha y su cuarto.
+(Picture: Regalo diario: día 2 de 7, una racha de 1 día y el botón Abrir mi regalo)
+Regalo diario. Siete días seguidos, cada uno con su premio.
+
+(Picture: Minijuegos: Laberinto acogedor, Parejas de memoria, Atrapa bocaditos, Revienta burbujas, Ritmo de cepillado y Adivina respuestas)
+Minijuegos. Seis juegos para jugar solo o retar a un amigo.
+(Picture: Revienta burbujas en juego: burbujas de corazón, gota y estrella flotando sobre Mochi)
+Revienta burbujas. Junta cadenas del mismo tipo antes de que se vayan.
+(Picture: Tienda: Pawdori Premium, los elegidos de hoy con descuento y el supermercado)
+Tienda. Ofertas del día, Premium y el supermercado.
+
+(Picture: Ropa: gorritos, boinas, tiaras y orejeras para Mochi, por cabeza, lentes y cuello)
+Ropa y amiguitos. Viste a tu mascota y decora su cuarto.
+(Picture: Familia: el chat de la familia de Mochi con mensajes rápidos)
+Familia. Cuídenla juntos y platiquen en su chat.
+(Picture: Entrar: Tu nuevo mejor amigo te espera, con Crear mi cuenta, correo, contraseña, Google y Facebook)
+Tu cuenta. Crea tu cuenta gratis y elige tu idioma.
+
+Capturas de Pawdori 3.1.0 en la simulación del juego, en un teléfono de 412 px y una pantalla de 1440 px.
+
+## Qué hay adentro: todo lo que puedes hacer con tu mascota
+
+| | Qué puedes hacer |
+| --- | --- |
+| 🐾 **Mascotas** | 14 especies: Conejito Mochi, Gatito Pudín, Zorrito Nori, Ajolote Burbuja, Osito Arce, Pingüino Guijarro, Panda Taro, Hámster Miel, Ranita Brote, Ovejita Nube, Nutria Cacao, Dragón Estelar, Cachorro Galleta y Cachorro Pimienta. Cada una tiene su carácter, sus rasgos y cinco etapas para crecer y evolucionar. |
+| 💛 **Cuidados** | Comida, agua, baño, descanso y cariño. Cada cuidado te muestra lo que dio ("Comida +35", "+10 XP") y tu mascota te avisa cuando algo no hace falta. Hazle cosquillas para que suelte premios. |
+| 🌙 **Día y noche** | Tu mascota se duerme, descansa y despierta con un gran estirón y un "¡Buenos días!". |
+| 🏡 **Familia** | Hasta seis personas cuidan a la misma mascota, cada quien desde su teléfono, con un chat de familia y el historial de cuidados. |
+| 🤝 **Amigos** | Solicitudes de amistad, perfiles y mensajes, privados por defecto. Los mensajes pasan por moderación antes de mostrarse. |
+| 🎮 **Minijuegos** | Laberinto acogedor, Parejas de memoria, Atrapa bocaditos, Revienta burbujas, Ritmo de cepillado y Adivina respuestas, solos o como reto. Además **¿Tú o yo?** con un amigo y la **Carrera de mascotas** en vivo. Tablas de amigos y de todos. |
+| 🎁 **Premios diarios** | Un regalo diario de siete días con racha, la ruleta diaria, misiones del día y logros. |
+| 🛍️ **Tienda** | Ofertas del día, un supermercado con comidas, bebidas y jabones para la alacena, y Pawdori Premium con precios claros. |
+| 🎀 **Ropa y decoración** | Gorritos, lentes y bufandas para tu mascota, amiguitos que la acompañan, y muebles, paredes y pisos para su cuarto. Completa los álbumes de decoración para ganar premios. |
+| 🌐 **Dos idiomas** | Español e inglés. Pawdori sigue el idioma de tu teléfono y lo cambias cuando quieras. |
+| 📲 **Una sola cuenta** | La misma partida en Android y en el navegador. |
+
+## Requisitos: lo que necesita tu teléfono
+
+| | |
+| --- | --- |
+| Sistema | Android 10 o más |
+| Espacio | Unos 28 MB para descargar el APK |
+| Internet | Sí: tu mascota, tus monedas y tus premios viven en el servidor |
+| Cuenta | Un correo electrónico; la cuenta es gratis |
+| Navegador | Chrome 111 o más, o Safari 16.4 o más, para jugar sin instalar nada |
+
+## Instalación: del enlace a tu mascota en cuatro pasos
+
+(Picture: Descargar la última versión para Android)
+
+(Picture: La instalación en cuatro pasos: 1. Abre la última versión desde tu teléfono. 2. Descarga el APK, de unos 28 MB. 3. Permite instalarlo, solo para Pawdori. 4. Abre Pawdori, crea tu cuenta y adopta tu mascota.)
+
+1. Desde tu teléfono, abre la [**última versión**](https://github.com/xt0n1-t3ch/Pawdori-Game/releases/latest).
+2. En **Assets**, toca `pawdori-<versión>.apk` para descargarlo.
+3. Ábrelo. Android te pedirá permiso para instalar apps de esta fuente: acéptalo solo para Pawdori.
+4. Abre Pawdori, crea tu cuenta y adopta tu mascota.
+
+¿Sin Android? Juega en el navegador
+
+Abre [**app.pawdori.black-watch.net**](https://app.pawdori.black-watch.net) en Chrome, Edge o Safari y entra con tu cuenta. Es la misma partida que en Android. Desde el menú del navegador puedes **instalarla** como app (PWA) para abrirla desde tu pantalla de inicio, también en iPhone y iPad.
+
+## Actualizaciones: Pawdori se actualiza solita
+
+Cuando sale una versión nueva, Pawdori te muestra una ventanita con las novedades en tu idioma y un botón **Actualizar**. La app descarga el APK nuevo, revisa que su huella y su firma sean las oficiales, y abre el instalador de Android para que confirmes. Tu progreso no se toca.
+
+Algunas versiones son obligatorias, por ejemplo cuando cambia el servidor: la app te pide actualizar antes de seguir jugando.
+
+Si prefieres hacerlo a mano, descarga el APK nuevo desde la [última versión](https://github.com/xt0n1-t3ch/Pawdori-Game/releases/latest) e instálalo encima. Las notas de cada versión, en español e inglés, están en [Releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases).
+
+## Seguridad: firmado, verificado y con tu progreso en el servidor
+
+- Cada APK va **firmado** con la llave oficial de Pawdori. Android no deja instalar encima una copia firmada por otra persona, y la app no acepta una actualización con otra firma.
+- Cada versión trae su **SHA-256** en `pawdori-<versión>.apk.sha256` y en `latest.json`, y la app lo comprueba antes de instalar.
+- Tus monedas, premios, inventario y progreso viven en el **servidor**: no se pueden cambiar desde el teléfono y no se pierden si cambias de teléfono.
+- Los mensajes del chat pasan por **moderación** antes de mostrarse. Si la moderación no responde, el mensaje espera; nunca se publica sin revisar.
+
+Comprobar el APK tú mismo
+
+La huella SHA-256 del certificado de firma de Pawdori (paquete `com.pawdori.app`) es:
+
+```text
+BA:93:A4:A1:CA:42:94:70:86:81:B2:AD:BB:02:7E:4B:27:90:F7:D1:E2:6D:FA:48:E6:FB:24:66:B0:66:D0:92
+```
+
+Es la misma que publica [`assetlinks.json`](https://pawdori.black-watch.net/.well-known/assetlinks.json) en el sitio de Pawdori. Para comprobar una descarga en tu computadora:
+
+```bash
+sha256sum -c pawdori-3.1.0.apk.sha256            # pawdori-3.1.0.apk: OK
+apksigner verify --print-certs pawdori-3.1.0.apk  # la huella SHA-256 debe ser la de arriba
+```
+
+## Versiones: qué trae cada versión
+
+Cada versión en [Releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases) trae sus notas en español e inglés y tres archivos:
+
+| Archivo | Para qué |
+| --- | --- |
+| `pawdori-<versión>.apk` | El instalador para Android |
+| `pawdori-<versión>.apk.sha256` | La huella del APK, para comprobar la descarga |
+| `latest.json` | Lo que lee la app para saber si hay versión nueva: número, notas en español e inglés, tamaño y huella |
+
+Pawdori sigue [Semantic Versioning](https://semver.org/lang/es/): el primer número cambia con las actualizaciones grandes, el segundo con las novedades y el tercero con los arreglos.
+
+## Preguntas frecuentes: lo que la gente pregunta
+
+### ¿Pawdori es gratis?
+
+Sí, todo el juego es gratis. **Pawdori Premium** es opcional: trae ropa y fondos de miembro, un regalo semanal, más cosquillas y otra vuelta en la ruleta, con el precio y la renovación a la vista y una forma clara de decir que no. No hay premios al azar que se compren con dinero.
+
+### ¿Por qué no está en Google Play?
+
+Por ahora Pawdori se instala desde aquí y se actualiza solo. La versión de Google Play llegará más adelante; esa se actualizará desde la tienda.
+
+### ¿Es seguro instalar un APK?
+
+Instala solo el APK de este repositorio. Va firmado con la llave oficial y trae su huella SHA-256, que la app y tú pueden comprobar (mira [Seguridad](#seguridad)). Al terminar puedes quitarle a tu navegador el permiso de instalar apps.
+
+### ¿Pierdo mi mascota si cambio de teléfono?
+
+No. Tu mascota y tu progreso están en tu cuenta. Instala Pawdori en el teléfono nuevo, o abre el navegador, y entra con tu correo.
+
+### ¿Funciona en iPhone?
+
+Todavía no hay app para iPhone, pero puedes jugar en el navegador en [app.pawdori.black-watch.net](https://app.pawdori.black-watch.net) con Safari 16.4 o más, e instalarla en tu pantalla de inicio.
+
+### ¿Puedo cuidar la mascota con mi familia?
+
+Sí. Comparte el código de invitación de tu familia: hasta seis personas cuidan a la misma mascota, cada quien desde su teléfono, y todos ven los cambios al momento.
+
+### ¿Tiene anuncios?
+
+Los anuncios son aptos para toda la familia y no personalizados, y los que dan premio siempre son opcionales. Premium, o la compra única de Quitar anuncios, quita los demás.
+
+### ¿Para qué edad es?
+
+Para jugadores de 13 años o más.
+
+## Este repositorio: qué guarda y cómo se arma esta página
+
+Este repositorio publica los instaladores de Pawdori y esta página. El código del juego vive en un repositorio privado; los APK se publican en [Releases](https://github.com/xt0n1-t3ch/Pawdori-Game/releases), no en el historial de git.
+
+```text
+README.md            esta página, en español
+README.en.md         la misma página, en inglés
+llms.txt             un mapa de Pawdori para modelos de lenguaje (llms-full.txt: todo el texto)
+CITATION.cff         cómo citar Pawdori (el botón "Cite this repository" de GitHub)
+assets/readme/       la portada, los encabezados y los pasos, en es/ y en/, y la vista previa social
+assets/screenshots/  las capturas del juego, en es/ y en/
+scripts/make_art.py  dibuja las imágenes de esta página con el arte y las fuentes de Pawdori
+scripts/llms.py      escribe llms.txt y llms-full.txt a partir de las dos páginas
+```
+
+Volver a generar las imágenes y los archivos para modelos
+
+```bash
+python3 -I scripts/make_art.py --source /ruta/a/Pawdori --shots /ruta/a/capturas
+python3 -I scripts/llms.py            # escribe llms.txt y llms-full.txt
+python3 -I scripts/llms.py --check    # falla si están desactualizados
+```
+
+`make_art.py` lee las fuentes Baloo 2 y Nunito Sans y el arte del juego desde una copia de Pawdori, y las capturas desde la simulación del juego a 2x (una carpeta `es/` y otra `en/`). Revisa que el texto de cada imagen tenga un contraste de 7:1 o más.
+
+## Créditos: quién lo hace y de quién es
+
+Pawdori lo hace [xt0n1](https://github.com/xt0n1-t3ch) (XT0N1.T3CH). El juego, su arte, sus personajes y esta página son © 2026 xt0n1, todos los derechos reservados: puedes descargar e instalar Pawdori y compartir el enlace a esta página, pero no volver a publicar el APK ni el arte como si fueran tuyos.
+
+Las fuentes [Baloo 2](https://github.com/EkType/Baloo2) y [Nunito Sans](https://github.com/googlefonts/NunitoSans) se usan bajo la SIL Open Font License 1.1. La política de privacidad está en [pawdori.black-watch.net/privacy](https://pawdori.black-watch.net/privacy).
+
+---
+
+Cada día, una nueva historia pequeñita contigo. Hecho con cariño por XT0N1.T3CH 🐾
